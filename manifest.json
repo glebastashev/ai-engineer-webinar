@@ -1,7 +1,7 @@
 {
-  "sourceSha256": "c5c454757f64bec82c3e7b58170c0d8c815884afcf81b5e955c0e5ede48a2981",
+  "sourceSha256": "62cab56ce65afb9bc61abb5be770e21c4000a63617f32edd2b5323a124e744c1",
   "slides": 124,
-  "indexBytes": 662324,
+  "indexBytes": 662328,
   "assets": [
     {
       "path": "assets/f433e5d333be1128d8ec.ttf",
@@ -232,10 +232,10 @@
       "sha256": "a1aeb60334c8abbf0faf2701fad42e43c77aa36a0f56cd9343cf42c973fce0c1"
     },
     {
-      "path": "assets/6c4634c54df560d3543c.webp",
+      "path": "assets/be3caddb2d3ea7ff5919.webp",
       "mime": "image/webp",
-      "bytes": 56932,
-      "sha256": "6c4634c54df560d3543c1b8ababfeebc834b9c1715425f35a3e45bedca58e6e5"
+      "bytes": 91918,
+      "sha256": "be3caddb2d3ea7ff5919561dd313f170171beed3b5f4af5ca2148716c0b49aef"
     },
     {
       "path": "assets/705119a0ed9f0a6f4abf.webp",
